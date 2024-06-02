@@ -5,7 +5,7 @@
   
 ## About The Project
 
-•AnCrypt is a cryptocurrency tracking web application built using various technologies. 
+•CryptoHacks is a cryptocurrency tracking web application built using various technologies. 
 It allows users to conveniently monitor and keep track of various cryptocurrencies and their associated information. Users can view real-time or historical data about different cryptocurrencies. 
 
 •The website likely provides a visually appealing and user-friendly interface thanks to the Material-UI framework which ensures a consistent design language and responsive layout across different devices. 
@@ -16,7 +16,7 @@ It allows users to conveniently monitor and keep track of various cryptocurrenci
 
 ## Built With
 
-Crafted with cutting-edge technologies, AnCrypt is built with
+Crafted with cutting-edge technologies, CryptoHacks is built with
 
 * [React](https://react.dev/)
 * [Firebase](https://firebase.google.com/)
@@ -36,7 +36,6 @@ Crafted with cutting-edge technologies, AnCrypt is built with
 Ready to dive into the world of crypto tracking? Follow these simple steps to get started:
 
 ### Installation
-
 
 
 1. Clone the Repository: https://github.com/PerksofbeingVaibhav/major-project.git
