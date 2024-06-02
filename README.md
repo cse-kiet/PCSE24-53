@@ -2,20 +2,7 @@
 <p align="center">
   <h3 align="center">Stock and Crypto</h3>
 
-  <p align="center">
-     Track Cryptocurrency Trends with Ease on Our Modern React-Powered Platform!
-    <br/>
-    <br/>
-    <a href=" https://github.com/PerksofbeingVaibhav/major-project.git">View Demo</a>
-    .
-    <a href="https://github.com/PerksofbeingVaibhav/major-project/issues">Report Bug</a>
-    .
-    <a href="https://github.com/PerksofbeingVaibhav/major-project/issues">Request Feature</a>
-  </p>
-</p>
-
-![Contributors](https://img.shields.io/github/contributors/ThisIsSahaj/AnCrypt?color=dark-green) ![Forks](https://img.shields.io/github/forks/ThisIsSahaj/AnCrypt?style=social) ![Stargazers](https://img.shields.io/github/stars/ThisIsSahaj/AnCrypt?style=social) ![Issues](https://img.shields.io/github/issues/ThisIsSahaj/AnCrypt) 
-
+  
 ## About The Project
 
 •AnCrypt is a cryptocurrency tracking web application built using various technologies. 
